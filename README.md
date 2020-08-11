@@ -1,6 +1,5 @@
-<div align="center">
-   This is a *Italic* text
-</div>
+This is a *Italic* text
+
 
 <h1 align="center">
     <img alt="React RocketShoes" src="https://res.cloudinary.com/lukemorales/image/upload/v1562696000/readme_logos/react-rocketshoes_jy1lze.png" />
